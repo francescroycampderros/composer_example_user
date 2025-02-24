@@ -1,0 +1,16 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/francescroycampderros/composer_example"
+        }
+    ],
+    "require": {
+        "francescroy/hello-world": "1.0.0.x-dev"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
