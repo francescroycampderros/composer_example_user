@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "b3423d4e9ef811ca8fbf3bd7115037fe",
+    "content-hash": "85e377efb5591ee7cf8b0ea1cee2ae7f",
     "packages": [
         {
             "name": "elastic/transport",
@@ -124,7 +124,7 @@
         },
         {
             "name": "francescroy/hello-world",
-            "version": "1.0.0.x-dev",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/francescroycampderros/composer_example.git",
@@ -140,7 +140,6 @@
                 "elasticsearch/elasticsearch": "^8.15",
                 "monolog/monolog": "3.0.*"
             },
-            "default-branch": true,
             "type": "library",
             "support": {
                 "source": "https://github.com/francescroycampderros/composer_example/tree/1.0.0",
@@ -1294,9 +1293,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "francescroy/hello-world": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],

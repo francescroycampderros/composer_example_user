@@ -6,7 +6,7 @@
         }
     ],
     "require": {
-        "francescroy/hello-world": "1.0.0.x-dev"
+        "francescroy/hello-world": "1.0.0"
     },
     "config": {
         "allow-plugins": {
