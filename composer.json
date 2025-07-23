@@ -6,7 +6,7 @@
         }
     ],
     "require": {
-        "francescroy/hello-world": "^1.0"
+        "francescroy/hello-world": "^1.1"
     },
     "config": {
         "allow-plugins": {
